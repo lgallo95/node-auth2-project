@@ -14,13 +14,13 @@ Your assignment page on Canvas should contain instructions for submitting this p
 
 You will complete the following tasks and do any extra wiring and package installation necessary for the app to compile and pass all tests.
 
-#### 2A - Database Access Functions
+<!-- #### 2A - Database Access Functions
 
 Write the following user access functions inside `api/users/users-model.js`:
 
-- [ ] `find`
-- [ ] `findBy`
-- [ ] `findById`
+- [x] `find`
+- [x] `findBy`
+- [x] `findById` -->
 
 #### 2B - Middleware Functions
 
